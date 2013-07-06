@@ -1,0 +1,7 @@
+Plugin-Version: 1.0
+Plugin-Type: tradable_algo
+Plugin-ClassPath: 
+Plugin-Vendor-Id: tradable
+Plugin-SymbolicName: com.tradable.algo.macd
+Plugin-Name: MACD Algo
+Plugin-Vendor: tradable
